@@ -10,8 +10,7 @@ ___________________________requirements__________________________
 
 ______________________how to get the graphs______________________
 
-
-1 : Go to the part "Choice TODO" in main.py (line 33) 
-2 : choose the results to display (PCA, MDS, Isomap ...)
-3 : Then run main.py
-
+1 : main.py (line 15) you can change the directory to access zoo.data
+2 : Go to the part "Choice TODO" in main.py (line 33) 
+3 : choose the results to display (PCA, MDS, Isomap ...)
+4 : Then run main.py
